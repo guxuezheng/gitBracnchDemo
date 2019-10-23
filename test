@@ -4,9 +4,14 @@ master1
 master2
 
 <<<<<<< Upstream, based on master
+<<<<<<< Upstream, based on master
 
 master3
 master4
 =======
 v1
 >>>>>>> 06642e4 v1
+=======
+v1
+v2
+>>>>>>> a29086b v2
